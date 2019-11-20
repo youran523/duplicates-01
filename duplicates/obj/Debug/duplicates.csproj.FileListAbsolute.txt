@@ -1,0 +1,5 @@
+E:\Study\06- 算法\duplicates\duplicates\bin\Debug\duplicates.exe.config
+E:\Study\06- 算法\duplicates\duplicates\bin\Debug\duplicates.exe
+E:\Study\06- 算法\duplicates\duplicates\bin\Debug\duplicates.pdb
+E:\Study\06- 算法\duplicates\duplicates\obj\Debug\duplicates.exe
+E:\Study\06- 算法\duplicates\duplicates\obj\Debug\duplicates.pdb
